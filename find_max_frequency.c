@@ -24,7 +24,7 @@ int main(){
         }
     }
     
-    printf("%c have the max count of %d", max_c, max_count);
-    
+    printf("%c have the max count of %d\n", max_c, max_count);
+    return 0;
     
 }
